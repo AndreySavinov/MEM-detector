@@ -1,3 +1,3 @@
-# MEM_detector
+# MEM detector
 
-Binary classificator from https://arxiv.org/pdf/1606.02206.pdf
+Realization of Minimax Approach of Supervised Learning and Maximum Entropy Machine (MEM) from https://arxiv.org/pdf/1606.02206.pdf.
